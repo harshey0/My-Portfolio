@@ -5,9 +5,9 @@ const subheadingsData = {
         content: (
           <>
             <p>
-              Passionate full-stack web developer proficient in React.js,
+              Passionate full-stack web developer proficient in MERN stack
               with a solid foundation in data science and machine learning using Python.
-              Completed over ten Python projects, driven by innovation and continuous learning.
+              Completed over ten develpment projects, driven by innovation and continuous learning.
               Eager to collaborate on transformative projects, aiming to make a positive impact
               through technology's potential. Let's create the future together!
             </p>
