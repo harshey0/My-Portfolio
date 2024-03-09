@@ -56,11 +56,11 @@ const subheadingsData = {
         ),
       },
       {
-        title: "100 Days of Code: The Complete Python ProBootcamp for 2023",
+        title: "Udemy: The Complete 2023 Web Development Bootcamp.",
         content: (
           <>
             <p>
-            Angela Yu's "100 Days of Code - The Complete Python Pro Bootcamp" taught essential Python skills, problem-solving, and practical project experience. Emphasized consistency, coding foundation, and professional programming mindset.
+            Learned various Web Dev technologies and kickstarted my development journey.
             </p>
           </>
         ),

@@ -26,6 +26,8 @@ export default class SkillsMenu extends Component {
         className={`skill-sub-container-${this.state.activeMenuItem}`}
       >
         <h3>{skill.title}</h3>
+        
+
         <div className="level-container">
           {[...Array(6)].map((_, i) => (
             <div
@@ -42,7 +44,7 @@ export default class SkillsMenu extends Component {
 
   render() {
     const { activeMenuItem } = this.state;
-    const menuItems = ["FRONT-END", "BACK-END"];
+    const menuItems = ["LANGUAGES","FRONT-END","BACK-END"];
 
     const currentIcon = activeMenuItem === 1 ? frontendIcon : backendIcon;
 
