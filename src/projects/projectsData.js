@@ -43,7 +43,7 @@ movie.
       </>
     ),
     github: "https://github.com/harshey0/clone-discord",
-    demo: "https://earnest-froyo-c4e8ec.netlify.app/",
+    demo: "https://harshey0.github.io/clone-discord/",
   },
   4: {
     title: "Weather App",
