@@ -5,18 +5,16 @@ import projectFour from "../assets/project-4.png";
 
 const projects = {
   1: {
-    title: "reyyTech",
+    title: "Reyy's Shoes",
     image: projectOne,
     description: (
       <>
-        <p>
-        MERN-based e-commerce tech website offering seamless browsing, secure transactions, and dynamic product man-
-agement for streamlined online shopping experiences.
-        </p>
-      </>
+        <p>A robust e-commerce platform built with React.js, Express.js, Node.js, MongoDB, and other modern technologies. Features include user-friendly browsing, OAuth 2.0 authentication for secure logins, Nodemailer for automated emails, JWT for session management, and Stripe integration for payments & an Admin role for full control over users, products, and orders.</p>
+     
+        </>
     ),
-    github: "https://github.com/harshey0/reyyTech",
-    demo: "https://reyytech.onrender.com/",
+    github: "https://github.com/harshey0/Reyy-s-Shoes",
+    demo: "https://reyy-s-shoes.vercel.app/",
   },
   2: {
     title: "Dekho",
@@ -33,19 +31,6 @@ movie.
     demo: "https://dekhoo.netlify.app/",
   },
   3: {
-    title: "Discord clone",
-    image: projectThree,
-    description: (
-      <>
-        <p>
-        Discord clone using pure HTML and CSS.
-        </p>
-      </>
-    ),
-    github: "https://github.com/harshey0/clone-discord",
-    demo: "https://harshey0.github.io/clone-discord/",
-  },
-  4: {
     title: "Weather App",
     image: projectFour,
     description: (

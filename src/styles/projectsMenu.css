@@ -58,7 +58,8 @@
     color : white;
   }
   .project-sub-container img {
-    width: 100%;
+    margin-left: 50px;
+    width: 70%;
     object-fit: cover;
     border-radius: 0.5rem 3rem 0.5rem 0.5rem;
     opacity: 0.9;
